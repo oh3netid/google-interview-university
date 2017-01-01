@@ -27,7 +27,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git push --force `
 
-[] Find out what rebase command does
+[ ] Find out what rebase command does
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## About Google
